@@ -1,0 +1,17 @@
+# Program 6: Push Local Repository to GitHub
+# SCM Lab – Git Push Simulation
+
+print("----- Program 6: Push Repository to GitHub -----")
+
+print("Step 1: Add GitHub as a remote origin")
+print("Command: git remote add origin https://github.com/username/repo.git")
+
+print("\nStep 2: Push the local repository to GitHub")
+print("Command: git push -u origin main")
+
+print("\nExpected Output:")
+print("Enumerating objects: 5, done.")
+print("Counting objects: 100% (5/5), done.")
+print("Writing objects: 100% (5/5), done.")
+print("To https://github.com/username/repo.git")
+print("[new branch] main -> main")
