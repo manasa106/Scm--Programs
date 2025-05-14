@@ -1,0 +1,13 @@
+# Program 4: Create and Switch to a New Branch
+# SCM Lab – Git Branching Simulation
+
+print("----- Program 4: Create and Switch to a Branch -----")
+
+print("Step 1: Create a new branch named 'feature'")
+print("Command: git branch feature")
+
+print("\nStep 2: Switch to the 'feature' branch")
+print("Command: git checkout feature")
+
+print("\nExpected Output:")
+print("Switched to branch 'feature'")
