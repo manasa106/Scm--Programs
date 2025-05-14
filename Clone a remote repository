@@ -1,0 +1,13 @@
+# Program 7: Clone a Remote Repository
+# SCM Lab – Git Clone Simulation
+
+print("----- Program 7: Clone a GitHub Repository -----")
+
+print("Step 1: Clone the repository from GitHub")
+print("Command: git clone https://github.com/username/repo.git")
+
+print("\nExpected Output:")
+print("Cloning into 'repo'...")
+print("remote: Enumerating objects: 10, done.")
+print("remote: Total 10 (delta 0), reused 0 (delta 0), pack-reused 10")
+print("Receiving objects: 100% (10/10), done.")
