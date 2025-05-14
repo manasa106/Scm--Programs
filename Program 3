@@ -1,0 +1,44 @@
+
+
+
+---
+
+✅ Program 3: Check the Status of the Repository
+
+Filename: program3_check_status.py
+
+
+---
+
+Objective:
+
+To check the current status of a Git repository, including:
+
+Which branch you're on
+
+Whether there are any staged, unstaged, or untracked files
+
+Whether the working tree is clean
+
+
+
+---
+
+Python Simulation Code:
+
+# Program 3: Check Status of Repository
+# SCM Lab Program – Git Status Simulation
+
+print("----- Program 3: Check Git Repository Status -----")
+
+print("Step 1: Make sure you are inside your Git repository folder.")
+print("Command: cd myproject")
+
+print("\nStep 2: Check the repository status.")
+print("Command: git status")
+
+print("\nExpected Output:")
+print("On branch main")
+print("nothing to commit, working tree clean")
+
+
