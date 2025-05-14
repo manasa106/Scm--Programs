@@ -1,0 +1,16 @@
+# Program 5: Merge Branches in Git
+# SCM Lab – Git Merge Simulation
+
+print("----- Program 5: Merge Two Branches -----")
+
+print("Step 1: Switch back to the main branch")
+print("Command: git checkout main")
+
+print("\nStep 2: Merge changes from 'feature' into 'main'")
+print("Command: git merge feature")
+
+print("\nExpected Output:")
+print("Updating abc1234..def5678")
+print("Fast-forward")
+print(" file.txt | 1 +")
+print(" 1 file changed, 1 insertion(+)")
