@@ -1,0 +1,20 @@
+
+
+Filename: program2_add_commit.py
+
+# Program 2: Add and Commit a File to Repository
+
+print("----- Program 2: Add and Commit File -----")
+print("Step 1: Create a new file named file.txt")
+print("Command: echo 'Hello Git' > file.txt")
+
+print("\nStep 2: Add file to staging")
+print("Command: git add file.txt")
+
+print("\nStep 3: Commit the file")
+print("Command: git commit -m 'Added file.txt'")
+
+print("\nOutput:")
+print("[main (root-commit) abc1234] Added file.txt")
+print("1 file changed, 1 insertion(+)")
+print("create mode 100644 file.t
