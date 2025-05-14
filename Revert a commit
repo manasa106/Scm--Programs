@@ -1,0 +1,11 @@
+# Program 9: Revert a Commit in Git
+# SCM Lab – Git Revert Simulation
+
+print("----- Program 9: Revert a Commit -----")
+
+print("Step 1: Revert the last commit using its hash")
+print("Command: git revert abc1234567890")
+
+print("\nExpected Output:")
+print("[main 789xyz] Revert 'Added feature update'")
+print("1 file changed, 1 deletion(-)")
